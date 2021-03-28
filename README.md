@@ -1,5 +1,4 @@
 # CS50-Week-0 - Total Space
-Problem set Week 0 - Scratch Total Space
 
 Upload the .sb3 file in Scratch at File > Load from your computer.
 
